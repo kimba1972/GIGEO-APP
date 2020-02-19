@@ -1,0 +1,94 @@
+
+.fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+  .art {
+      padding-left: 70px;
+      width: 2px;
+      height: 2px;
+      font-size: 10px;
+  }
+  
+i {
+    padding-left: 40px;
+}
+
+.contenedor {
+    display: flex;
+    flex-flow: row nowrap; 
+    justify-content: space-around;   
+}
+  
+.logo {
+    flex:1 1 auto;
+}
+
+.iconos {
+    flex:5 1 auto;
+}
+
+.navegacion {
+    flex:1 1 auto;
+}
+ 
+.banner {
+    width: 100vw;
+    height: 160px;
+    object-fit: cover;
+   
+   
+   
+}
+
+.yuki {
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    margin: 60px;
+    .seguidores{
+       position: absolute;
+       padding-left: 100px;  
+    }
+}
+
+.foto_yuki {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px   
+}
+
+button {
+    width: 80px;
+    height: 50px;
+}
+
+
+.videos {
+    text-align: left;
+    padding-left: 50px;
+    
+}
+
+
+.contenedor {
+    margin: 50px;
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.contenedor img {
+    width: 280px;
+    height: 140px;
+    display: flex;
+    flex-direction: row nowrap;
+  
+}
+
